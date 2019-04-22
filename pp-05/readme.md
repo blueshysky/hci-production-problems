@@ -11,18 +11,18 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.https://teamsuccess.io/UX
+2.https://html.com/blog/website-testing-usability-checklist/
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Easy to look at
+2.Fluid design/responsive
+3.Good color
+4.Organized
+5.Well Structured
+6.user friendly
+7.interactive
+8.well-labeled
+9.Meaningful pictures
+10.Understandable
